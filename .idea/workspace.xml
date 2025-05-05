@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="446d10df-aafc-430b-a7f7-9e1fb2c4b874" name="Changes" comment="filtre par referentiel de la promo en cours  sur la vue en liste des apprenant.controller.php" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="teste" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vmb2s1C1espk3UrwBFvCMoD3LD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/var/www/annuaire-telephone",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Views/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/images/apprenant" />
+      <recent name="$PROJECT_DIR$/public/assets/images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.466" />
+        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.466" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="PHP" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="446d10df-aafc-430b-a7f7-9e1fb2c4b874" name="Changes" comment="" />
+      <created>1744752993289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744752993289</updated>
+      <workItem from="1744752995337" duration="1001000" />
+      <workItem from="1744754002706" duration="105000" />
+      <workItem from="1744969126868" duration="5683000" />
+      <workItem from="1745548037379" duration="25472000" />
+      <workItem from="1745679653778" duration="3859000" />
+      <workItem from="1745760476003" duration="6013000" />
+      <workItem from="1745786142749" duration="26485000" />
+      <workItem from="1745825547353" duration="637000" />
+      <workItem from="1745829524768" duration="10116000" />
+      <workItem from="1745843674595" duration="7707000" />
+      <workItem from="1745890529857" duration="167000" />
+      <workItem from="1745890729498" duration="13831000" />
+      <workItem from="1745914911536" duration="9076000" />
+      <workItem from="1746002251004" duration="3952000" />
+      <workItem from="1746134679852" duration="14245000" />
+      <workItem from="1746174591505" duration="9797000" />
+      <workItem from="1746287428133" duration="16167000" />
+      <workItem from="1746367162002" duration="1434000" />
+      <workItem from="1746437937794" duration="22518000" />
+    </task>
+    <task id="LOCAL-00001" summary="pas bon">
+      <option name="closed" value="true" />
+      <created>1746367851825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746367851825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gestion activation sur la vue en liste des promo">
+      <option name="closed" value="true" />
+      <created>1746454882218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746454882218</updated>
+    </task>
+    <task id="LOCAL-00003" summary="filtre par referentiel sur la vue en liste">
+      <option name="closed" value="true" />
+      <created>1746456617523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746456617523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="filtre par referentiel de la promo en cours  sur la vue en liste des apprenant.controller.php">
+      <option name="closed" value="true" />
+      <created>1746459401736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746459401736</updated>
+    </task>
+    <task id="LOCAL-00005" summary="filtre par referentiel de la promo en cours  sur la vue en liste des apprenant.controller.php">
+      <option name="closed" value="true" />
+      <created>1746460296004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460296004</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pas bon" />
+    <MESSAGE value="gestion activation sur la vue en liste des promo" />
+    <MESSAGE value="filtre par referentiel sur la vue en liste" />
+    <MESSAGE value="filtre par referentiel de la promo en cours  sur la vue en liste des apprenant.controller.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="filtre par referentiel de la promo en cours  sur la vue en liste des apprenant.controller.php" />
+  </component>
+</project>

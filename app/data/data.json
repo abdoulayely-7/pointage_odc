@@ -1,0 +1,97 @@
+{
+    "utilisateurs": [
+        {
+            "id": 1,
+            "nom": "Admin Principal",
+            "login": "abdallah@sonatel.sn",
+            "password": "$2y$10$z3TtmZ\/Pzu1TXhIbw8fbq.eTf7oh\/hk3\/6HE1KKDkHUeEkT5UAbP2",
+            "profil": "Admin"
+        },
+        {
+            "id": 2,
+            "nom": "Sécurité Vigile",
+            "login": "vigile@sonatel.sn",
+            "password": "vigile123",
+            "profil": "Vigile"
+        },
+        {
+            "matricule": "APP202505053B8EA1",
+            "nom_complet": "Abdoulaye Développeur Ly",
+            "date_naissance": "2002-11-15",
+            "lieu_naissance": "Touba",
+            "adresse": "Keur Massar",
+            "login": "abdoulayely148@gmail.com",
+            "telephone": "773795383",
+            "referenciel": 101,
+            "photo": "Capture d’écran du 2025-04-22 01-37-44.png",
+            "statut": "Retenu",
+            "profil": "Apprenant",
+            "password": "$2y$10$al0oML3.WOiOl6wcgq2Vsu3DPUsCnLawE\/xsx5sRWQaBpztAK\/C5.",
+            "id": 1746462746,
+            "changer": true,
+            "tuteur_nom": "Abdoulaye Développeur Ly",
+            "lien_parente": "Oncle",
+            "tuteur_adresse": "Keur Massar",
+            "tuteur_telephone": "773795382",
+            "document": "Capture d’écran du 2025-04-22 01-37-44.png"
+        },
+        {
+            "matricule": "APP202505053133ED",
+            "nom_complet": "Abdoulaye Développeur Ly",
+            "date_naissance": "2002-11-15",
+            "lieu_naissance": "Touba",
+            "adresse": "Keur Massar",
+            "login": "abdoulayely1511@gmail.com",
+            "telephone": "773795312",
+            "referenciel": 101,
+            "photo": "",
+            "statut": "Retenu",
+            "profil": "Apprenant",
+            "password": "$2y$10$pEg6BbORlyn97pWjD.K\/9eaYIpuCUdnE72xnOQV4IfcAto81vC\/gy",
+            "id": 1746463481,
+            "changer": true,
+            "tuteur_nom": "Abdoulaye Développeur Ly",
+            "lien_parente": "Oncle",
+            "tuteur_adresse": "Keur Massar",
+            "tuteur_telephone": "773795323",
+            "document": ""
+        }
+    ],
+    "referenciel": [
+        {
+            "id": 103,
+            "nom": "Administration Réseau",
+            "capacite": 20,
+            "photo": "assets\/images\/promo\/bbd1.jpg",
+            "modules": 7,
+            "apprenants": 0
+        },
+        {
+            "id": 1745876240,
+            "nom": "test",
+            "description": "tete",
+            "capacite": 30,
+            "sessions": 1,
+            "photo": "assets\/ima1745917252ges\/promo\/bbd1.jpg",
+            "modules": 0,
+            "apprenants": 0
+        }
+    ],
+    "promotions": [
+        {
+            "id": 22,
+            "nom": "Promo de teste",
+            "dateDebut": "2024-01-01",
+            "dateFin": "2025-12-31",
+            "referenciels": [
+                101,
+                102,
+                103,
+                1745876240
+            ],
+            "photo": "Capture d’écran du 2025-04-22 01-37-44.png",
+            "statut": "Active",
+            "nbrApprenant": 0
+        }
+    ]
+}
